@@ -1,6 +1,6 @@
-# meta_ozce_0
+# MetaOzce2023_Web
 
-A new Flutter project.
+It is the web extension of the MetaOzce project. It is used as an admin panel. Hotel managers are in the role of admin.
 
 ## Getting Started
 
